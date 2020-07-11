@@ -4,7 +4,7 @@ This is a React web app that utilizes Spotify API to search for songs in the Spo
 
 It contains the following features:
 * Spotify Authentication — user logs into Spotify and follows the authentication setup.
-* Searchbar — user types a song name, artist, album, or podcast into the search bar. When user clicks on the “Search” button, the web app takes the query from user input and generates search results onto the “Search Results” list.
+* Searchbar — user types a song name, artist, album, or podcast into the search bar. When user clicks on the “Search” button, the web app takes the query from user input and generates search results onto the “Search Results” list container.
 * Add Song — from the search results list, user can add a track by clicking on the “+” button which will populate the “Playlist” container.
 * Within the Playlist Track container, user can
     * Rename title — as such, user inputs the name of their playlist. The default name is “My Playlist”
