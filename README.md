@@ -1,6 +1,6 @@
 # Playlist-Creator
 
-This is a React web app that utilizes Spotify API to search for songs in the Spotify library, curate a custom playlist, and save the playlist to user’s Spotify account.
+This is a React web app that utilizes Spotify API to search for songs in the Spotify library, curate a custom playlist, and save the playlist to user’s Spotify account: https://curate.surge.sh/
 
 It contains the following features:
 * Spotify Authentication — user logs into Spotify and follows the authentication setup.
