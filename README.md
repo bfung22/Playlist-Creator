@@ -10,3 +10,5 @@ It contains the following features:
     * Rename title — as such, user inputs the name of their playlist. Otherwise, the default name is “My Playlist”
     * Remove song — by clicking on the “ - “ button, user can remove a track from the Playlist container.
     * Save Playlist  — user can save the curated playlist by clicking the “Save to Spotify” button. The playlist will be generated and saved onto user’s Spotify account, and the object array that contains the Playlist Track container will empty.
+
+<img src="https://user-images.githubusercontent.com/68138908/88651378-707e3f00-d07e-11ea-9b12-b0f55e71f267.png" raw=true width: 400px height: 400px" />
